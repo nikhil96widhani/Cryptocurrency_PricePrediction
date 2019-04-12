@@ -1,4 +1,4 @@
-**Cryptocurrency Price Prediction: Bitcoin**
+# Cryptocurrency Price Prediction: Bitcoin
 
 This readme file which explains how to setup environment and run the code by installing prerequisite.
 
